@@ -1,0 +1,19 @@
+{
+  "trial_params": {
+    "goal_shape": [
+      "round"
+    ],
+    "goal_size1": [
+      14.5
+    ],
+    "goal_size2": [
+      20.25
+    ],
+    "goal_x": [
+      37.0
+    ],
+    "goal_y": [
+      35.125
+    ]
+  }
+}
