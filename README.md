@@ -4,6 +4,10 @@ A desktop application built with Python and PyQt6 for visually creating, editing
 
 The application was developed as part of a two-person university project at the Institute for Neural Computation, Ruhr University Bochum.
 
+## Application Preview
+
+![2D Navigation Environment Editor](assets/screenshot/application-overview.jpg)
+
 ## Overview
 
 The editor provides a graphical interface for configuring virtual navigation environments without manually editing configuration files.
