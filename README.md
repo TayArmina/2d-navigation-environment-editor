@@ -16,6 +16,12 @@ Users can define the environment dimensions, create obstacles, configure a goal 
 
 The project supports open-field and T-maze-style navigation scenarios for research, simulation, and experimentation.
 
+## Academic Context
+
+This application was developed as part of a two-person university project at the Institute for Neural Computation, Ruhr University Bochum.
+
+The project focused on building a graphical editor for configurable 2D navigation environments using Python and PyQt6.
+
 ## Features
 
 - Interactive 2D environment canvas
